@@ -1,1 +1,1 @@
-# Learning-Lab, includes programming resources for Algorithms, Programming and Machine Learning concepts.
+# Learning-Lab, practical resources for algorithms, puzzles, programming and AI / ML.
